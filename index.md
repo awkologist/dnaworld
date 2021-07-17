@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Willkommen zu DNAworld
 
-You can use the [editor on GitHub](https://github.com/awkologist/dnaworld/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wir leben im Zeitalter der DNA! DNA? Das ist der Name jener chemischen Substanz, die wir auch Erbsubstanz nennen. Sie ist in jedem Lebewesen enthalten und codiert dessen Aussehen und Aktivitäten. Wenn ein Gentest durchgeführt wird, dann wird ein Teil der DNA „gelesen“. Wenn eine Gentherapie durchgeführt wird, dann wird die DNA editiert. Seit 2012 gibt es dafür ein sensationell einfaches und genaues Verfahren, das Geneditierung genannt wird und eine das eine molekulare „Schere“, die Genschere CRISPR/Cas9 verwendet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Unsere Generation hält dieses Werkzeug, die Genschere, in den Händen. Es liegt an uns, wie wir sie einsetzten. Wollen wir sie zu Heilung von genetisch verursachten Erkrankungen oder zur Auswahl von Embryonen mit gewünschten Eigenschaften nutzen? Therapieren oder Optimieren? Wollen wir sie zur Zucht widerstandsfähiger Tiere und Pflanzen nutzen? Wie verhindern wir den Missbrauch als Biowaffe? Die Wissenschaft, ja die gesamte Gesellschaft stehen in der Verantwortung. Weltweit. Das ist die eine Seite der Generation Genschere.
 
-### Markdown
+Im September 2018 sind mit Nana und Lulu in China Zwillinge zur Welt gekommen, deren Erbgut nach der Befruchtung mit der Genschere verändert, editiert, wurde. Das ist die andere Seite der Generation Genschere.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Genschere in 15 Minuten
+Während des Biodiversitättages 2019, organisiert vom NABU Sachsen und der Hochschule Mittweida, habe ich in einem Vortrag die Funktion der Genschere CRISPR/Cas dargestellt. Der folgende Link bringt Sie direkt zur Minute 8:53, wo die Erklärung beginnt:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awkologist/dnaworld/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe width="1070" height="602" src="https://www.youtube.com/embed/3LYFxALSOdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
