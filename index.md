@@ -9,4 +9,4 @@ Im September 2018 sind mit Nana und Lulu in China Zwillinge zur Welt gekommen, d
 ## Genschere in 15 Minuten
 Während des Biodiversitättages 2019, organisiert vom NABU Sachsen und der Hochschule Mittweida, habe ich in einem Vortrag die Funktion der Genschere CRISPR/Cas dargestellt. Der folgende Link bringt Sie direkt zur Minute 8:53, wo die Erklärung beginnt:
 
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/3LYFxALSOdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/3LYFxALSOdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
