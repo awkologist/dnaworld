@@ -21,7 +21,11 @@ In den folgenden Büchern stelle ich in verschiedener Tiefe Aspekte der Gentechn
 <iframe type="text/html" width="140" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://lesen.amazon.de/kp/card?asin=B08174WG2N&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_et16FbDEXKAT8&tag=wwwbiowassers-21" ></iframe>
 
 ### Essential Gentechnik
+Dieses Büchlein gibt einen Einblick in die Methoden der Gentechnik vom Lesen bis zum Editieren des Genoms.
+
 <iframe type="text/html" width="140" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://lesen.amazon.de/kp/card?asin= B07MCDX7RL&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Fw16FbX85301K&tag=wwwbiowassers-21" ></iframe>
+
+<iframe type="text/html" width="140" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://www.springer.com/de/book/9783658251260"></iframe>
 
 ### Dummie
 <iframe type="text/html" width="140" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://lesen.amazon.de/kp/card?asin= 3527717463&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Fw16FbX85301K&tag=wwwbiowassers-21" ></iframe>
