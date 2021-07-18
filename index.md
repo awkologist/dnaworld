@@ -23,12 +23,13 @@ Dieses Büchlein gibt einen Einblick in die Methoden der Gentechnik vom Lesen bi
 <iframe type="text/html" width="140" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://lesen.amazon.de/kp/card?asin= B07MCDX7RL&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Fw16FbX85301K&tag=wwwbiowassers-21" ></iframe>
 
 ### Generation Gen-Schere
-Dieses Buch erklärt Gentechnik leicht verständlich und für jedermann. Stimmen zum Buch: „… Das Buch vermittelt in selten so brillianter Form komplizierte Biowissenschaft verständlich und eingebettet in gesellschaftlichem Diskurs, eine unbedingte Leseempfehlung.“ (Rolf Kickuth, in: CLB Chemie in Labor und Biotechnik, Jg. 71, Heft  3-4, 2020)
+Dieses Buch erklärt Gentechnik leicht verständlich und für jedermann. Stimmen zum Buch: „… Das Buch vermittelt in selten so brillianter Form komplizierte Biowissenschaft verständlich und eingebettet in gesellschaftlichem Diskurs, eine unbedingte Leseempfehlung.“ (Rolf Kickuth, in: CLB Chemie in Labor und Biotechnik, Jg. 71, Heft  3-4, 2020). Eine englische Übersetzung erscheint Ende 2021.
 
 <iframe type="text/html" width="140" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://lesen.amazon.de/kp/card?asin=B08174WG2N&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_et16FbDEXKAT8&tag=wwwbiowassers-21" ></iframe>
 
+<img width="140" height="240" alt="cover-genes-genomes-society" src="https://user-images.githubusercontent.com/25221385/126063831-01d73a64-4950-4ca1-b8ef-d989c67fc551.png">
+
 ### Dummie Gentechnik
 Das Buch für Dummies erklärt Grundlagen der Genetik und Gentechnik und zeigt Anhand von Beispielen, was alles möglich ist.
-<img width="453" alt="cover-genes-genomes-society" src="https://user-images.githubusercontent.com/25221385/126063831-01d73a64-4950-4ca1-b8ef-d989c67fc551.png">
 
 <iframe type="text/html" width="140" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://lesen.amazon.de/kp/card?asin= 3527717463&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_Fw16FbX85301K&tag=wwwbiowassers-21" ></iframe>
